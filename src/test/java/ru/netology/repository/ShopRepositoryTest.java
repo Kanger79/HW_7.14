@@ -10,7 +10,7 @@ import java.util.Arrays;
 public class ShopRepositoryTest {
     ShopRepository repository = new ShopRepository();
 
-    Product product1 = new Product(1, "brad", 10);
+    Product product1 = new Product(1, "bread", 10);
     Product product2 = new Product(2, "milk", 20);
     Product product3 = new Product(3, "sugar", 30);
     Product product4 = new Product(4, "potato", 40);
